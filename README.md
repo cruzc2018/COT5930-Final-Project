@@ -1,5 +1,5 @@
 # COT5930-Final-Project
-#Revisiting Data Augmentation for Skin Lession Classification
+# Revisiting Data Augmentation for Skin Lession Classification
 
 This project was built in Google Colab in conjuction with Google Drive and is meant to be modified/built/debugged in Google Colab. Can be edited and ran locally; however, it is not recommended for lower-end Desktops/PC's due to the size of the dataset, the constant moving of files, and intensive training times. 
 
