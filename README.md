@@ -16,3 +16,5 @@ Getting started:
 4. Upload the .ipynb to Google Colab
 5. Run the .ipynb on Google Colab
   (It will ask for permission to acess your drive. It is also HIGHLY recommended you change runtime type to gpu instead of none or tpu due to the intensive calculations the network has to perform. Average train time is around 5 hours, unless early stopped)
+
+#### *Credit for this project goes to Christian Cruz & Sofia Feliciano and can be reached at {cruzc2018, felicianos2018}@fau.edu*
